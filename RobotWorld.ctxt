@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RobotWorld
+comment0.text=\r\n\ This\ class\ generates\ this\ game's\ actionfield.\r\n\ \r\n\ Authors\:\ Jerick\ Castro\ Ortiz\ (@J3r1ckSB),\ Sim\u00F3n\ Andr\u00E9s\ \u00C1lvarez\ Gonz\u00E1lez\ (@Simonalgo),\ Santiago\ Barrera\ Salamanca\ (@Sanbarrera9090)\ \r\n\ Version\:\ 1.0.0\ -\ 02/04/2021\r\n
+comment1.params=
+comment1.target=RobotWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RobotWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ prepareScenario()
+numComments=3
